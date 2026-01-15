@@ -1,2 +1,2 @@
-# ci-cd-python-demo
-teste CI/CD ES2 ADS 6 Jontatas
+# CI/CD Python Demo
+Small project to demonstrate CI (lint+tests) and CD (GitHub Release on tag).
